@@ -1,9 +1,9 @@
 [
 null,
 {"id":1,"expanded":true,"name":"黑1","order":1,"parentId":0,"scrollX":787.8,"scrollY":375},
-{"id":2,"expanded":false,"name":"別墅 1F","order":3,"parentId":0,"scrollX":778.1999999999999,"scrollY":489},
-null,
-null,
+{"id":2,"expanded":true,"name":"別墅 1F","order":3,"parentId":0,"scrollX":778.1999999999999,"scrollY":417},
+{"id":3,"expanded":false,"name":"別墅 2F","order":4,"parentId":2,"scrollX":778.1999999999999,"scrollY":489},
+{"id":4,"expanded":false,"name":"密室","order":5,"parentId":2,"scrollX":787.8,"scrollY":375},
 null,
 {"id":6,"expanded":false,"name":"黑2","order":2,"parentId":1,"scrollX":832,"scrollY":640}
 ]
